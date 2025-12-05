@@ -5,4 +5,4 @@ publish: true
 
 # Hello from Quartz 👋
 
-If you can read this, your Quartz setup is working.
+If you can read this, your Quartz setup is working!
