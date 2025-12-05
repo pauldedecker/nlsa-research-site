@@ -1,8 +1,9 @@
 ---
-title: "Home"
+title: "NLSA Research & Accessibility"
 publish: true
 ---
 
-# Hello from Quartz 👋
+# NLSA Research & Accessibility Project
 
-If you can read this, your Quartz setup is working!
+Welcome to a growing collection of notes on accessibility, stuttering,
+and sociolinguistic research in Newfoundland and Labrador.
